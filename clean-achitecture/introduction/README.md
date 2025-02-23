@@ -1,4 +1,4 @@
-![alt text](image.png)
+![Clean Architecture](https://github.com/tran-huy-phuc/architecture/blob/main/clean-achitecture/introduction/images/clean-architecture.png)
 
 ## 1. What is Clean Architecture?
 
