@@ -7,4 +7,4 @@
 
 ## [3. Anti Clean Architecture] - Upcoming
 
-## [4. FAQs] - Upcoming
+## [4. FAQs](./faqs/README.md)
