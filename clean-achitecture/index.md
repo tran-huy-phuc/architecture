@@ -8,7 +8,7 @@ Clean Architecture, proposed by Robert C. Martin (Uncle Bob), is a software desi
 
 Clean Architecture follows a **layered, circular dependency rule: inner layers should not depend on outer layers**.
 
-📌 Core Layers (From Inner to Outer)
+## 📌 Core Layers (From Inner to Outer)
 
 1️⃣ **Entities (Enterprise Business Rules)**
 
